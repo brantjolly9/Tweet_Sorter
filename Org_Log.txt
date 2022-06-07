@@ -1,0 +1,462 @@
+Num of Tweets: 33
+Base Path: C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles
+
+Screen Name: libsoftiktok----------------------
+Tweet ID: 1516207919452327944
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\libsoftiktok Already Exists, chdir
+File Exists, changed dir to 1516207919452327944
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: spring_pierian----------------------
+Tweet ID: 1516110404182806537
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\spring_pierian Already Exists, chdir
+File Exists, changed dir to 1516110404182806537
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: JakeBequette91----------------------
+Tweet ID: 1516098283231498252
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\JakeBequette91 Already Exists, chdir
+File Exists, changed dir to 1516098283231498252
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: lijukic----------------------
+Tweet ID: 1516073370894413830
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\lijukic Already Exists, chdir
+File Exists, changed dir to 1516073370894413830
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: eleevn----------------------
+Tweet ID: 1515730817707773952
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\eleevn Already Exists, chdir
+File Exists, changed dir to 1515730817707773952
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: stillgray----------------------
+Tweet ID: 1515552948545155073
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\stillgray Already Exists, chdir
+File Exists, changed dir to 1515552948545155073
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: stillgray----------------------
+Tweet ID: 1506920970430595072
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\stillgray Already Exists, chdir
+File Exists, changed dir to 1506920970430595072
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: SolBrah----------------------
+Tweet ID: 1515084432079659013
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\SolBrah Already Exists, chdir
+File Exists, changed dir to 1515084432079659013
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: SolBrah----------------------
+Tweet ID: 1513336390842474496
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\SolBrah Already Exists, chdir
+File Exists, changed dir to 1513336390842474496
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: BrianRoemmele----------------------
+Tweet ID: 1515041987551924224
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\BrianRoemmele Already Exists, chdir
+File Exists, changed dir to 1515041987551924224
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: Prathkum----------------------
+Tweet ID: 1515041274784538624
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\Prathkum Already Exists, chdir
+File Exists, changed dir to 1515041274784538624
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: Chromasophore----------------------
+Tweet ID: 1515018195354230794
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\Chromasophore Already Exists, chdir
+File Exists, changed dir to 1515018195354230794
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: Fibci2----------------------
+Tweet ID: 1515003682051530760
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\Fibci2 Already Exists, chdir
+File Exists, changed dir to 1515003682051530760
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: tom_morganKCP----------------------
+Tweet ID: 1514984231478378501
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\tom_morganKCP Already Exists, chdir
+File Exists, changed dir to 1514984231478378501
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: gilbertftw----------------------
+Tweet ID: 1514675621393154060
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\gilbertftw Already Exists, chdir
+File Exists, changed dir to 1514675621393154060
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: gilbertftw----------------------
+Tweet ID: 1514675621393154060
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\gilbertftw Already Exists, chdir
+File Exists, changed dir to 1514675621393154060
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: gilbertftw----------------------
+Tweet ID: 1514675621393154060
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\gilbertftw Already Exists, chdir
+File Exists, changed dir to 1514675621393154060
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: gunsnrosesgirl3----------------------
+Tweet ID: 1514655054816591879
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\gunsnrosesgirl3 Already Exists, chdir
+File Exists, changed dir to 1514655054816591879
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: aimeeterese----------------------
+Tweet ID: 1514597003682279424
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\aimeeterese Already Exists, chdir
+File Exists, changed dir to 1514597003682279424
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: US_Stormwatch----------------------
+Tweet ID: 1514361216725966856
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\US_Stormwatch Already Exists, chdir
+File Exists, changed dir to 1514361216725966856
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: 1889dinofg----------------------
+Tweet ID: 1513978813318717442
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\1889dinofg Already Exists, chdir
+File Exists, changed dir to 1513978813318717442
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: 1889dinofg----------------------
+Tweet ID: 1513978813318717442
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\1889dinofg Already Exists, chdir
+File Exists, changed dir to 1513978813318717442
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: 1889dinofg----------------------
+Tweet ID: 1513978813318717442
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\1889dinofg Already Exists, chdir
+File Exists, changed dir to 1513978813318717442
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: 1889dinofg----------------------
+Tweet ID: 1513978813318717442
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\1889dinofg Already Exists, chdir
+File Exists, changed dir to 1513978813318717442
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: 1889dinofg----------------------
+Tweet ID: 1513978813318717442
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\1889dinofg Already Exists, chdir
+File Exists, changed dir to 1513978813318717442
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: 1889dinofg----------------------
+Tweet ID: 1513978813318717442
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\1889dinofg Already Exists, chdir
+File Exists, changed dir to 1513978813318717442
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: 1889dinofg----------------------
+Tweet ID: 1513978813318717442
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\1889dinofg Already Exists, chdir
+File Exists, changed dir to 1513978813318717442
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: Lukewearechange----------------------
+Tweet ID: 1513671098495287298
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\Lukewearechange Already Exists, chdir
+File Exists, changed dir to 1513671098495287298
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: tillwhensday----------------------
+Tweet ID: 1513503505369157633
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\tillwhensday Already Exists, chdir
+File Exists, changed dir to 1513503505369157633
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: ZeitgeistFilm----------------------
+Tweet ID: 1513199356559646728
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\ZeitgeistFilm Already Exists, chdir
+File Exists, changed dir to 1513199356559646728
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: crackconnoisser----------------------
+Tweet ID: 1512554191780298761
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\crackconnoisser Already Exists, chdir
+File Exists, changed dir to 1512554191780298761
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: PonticSteppeDad----------------------
+Tweet ID: 1511518786590961666
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\PonticSteppeDad Already Exists, chdir
+File Exists, changed dir to 1511518786590961666
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: BigGulpAmerikan----------------------
+Tweet ID: 1510996530110550020
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\BigGulpAmerikan Already Exists, chdir
+File Exists, changed dir to 1510996530110550020
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: BigGulpAmerikan----------------------
+Tweet ID: 1510996530110550020
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\BigGulpAmerikan Already Exists, chdir
+File Exists, changed dir to 1510996530110550020
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: CameronWEF----------------------
+Tweet ID: 1510762187316686853
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\CameronWEF Already Exists, chdir
+File Exists, changed dir to 1510762187316686853
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: Adventure_Nero----------------------
+Tweet ID: 1510656776303169536
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\Adventure_Nero Already Exists, chdir
+File Exists, changed dir to 1510656776303169536
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: randal_olson----------------------
+Tweet ID: 1510305906667315203
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\randal_olson Already Exists, chdir
+File Exists, changed dir to 1510305906667315203
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: GiancarloSopo----------------------
+Tweet ID: 1509598797848006663
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\GiancarloSopo Already Exists, chdir
+File Exists, changed dir to 1509598797848006663
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: archillect----------------------
+Tweet ID: 1508467364379213835
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\archillect Already Exists, chdir
+File Exists, changed dir to 1508467364379213835
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: dean_a_1984----------------------
+Tweet ID: 1508287469040857089
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\dean_a_1984 Already Exists, chdir
+File Exists, changed dir to 1508287469040857089
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: STOGGERS2----------------------
+Tweet ID: 1507750431241510916
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\STOGGERS2 Already Exists, chdir
+File Exists, changed dir to 1507750431241510916
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: STOGGERS2----------------------
+Tweet ID: 1507750431241510916
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\STOGGERS2 Already Exists, chdir
+File Exists, changed dir to 1507750431241510916
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: Resist_05----------------------
+Tweet ID: 1507506004678037508
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\Resist_05 Already Exists, chdir
+File Exists, changed dir to 1507506004678037508
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: NixonsAuSpectre----------------------
+Tweet ID: 1507380508908527643
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\NixonsAuSpectre Already Exists, chdir
+File Exists, changed dir to 1507380508908527643
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: NixonsAuSpectre----------------------
+Tweet ID: 1507380508908527643
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\NixonsAuSpectre Already Exists, chdir
+File Exists, changed dir to 1507380508908527643
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+
+
+Screen Name: MythinformedMKE----------------------
+Tweet ID: 1507022448742567940
+C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles\MythinformedMKE Already Exists, chdir
+File Exists, changed dir to 1507022448742567940
+JSON REPR Written
+Json BOOK written
+URL invalid: None
+Changed back to base
+

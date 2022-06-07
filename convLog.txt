@@ -1,0 +1,775 @@
+==================================
+-----libsoftiktok--------
+Check Quote
+	Returned Original Tweet: 1516207919452327944
+
+libsoftiktok-------
+-Entities
+--------
+Pilot announces removal of mask mandate mid flight  https://t.co/3CqC1CIJqj
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [24.223] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+!Len(ConvoList) = 1
+==================================
+-----spring_pierian--------
+Check Quote
+	Returned Original Tweet: 1516110404182806537
+
+spring_pierian-------
+-Entities
+--------
+While at a cafe. W0man with fake tits, b0tox, facelift, etc, is talking about "disinformation"
+Index Error on Media Url
+-Extended Entities
+------
+No extEntMedia for: spring_pierian
+!Len(ConvoList) = 1
+==================================
+-----JakeBequette91--------
+Check Quote
+	Returned Original Tweet: 1516098283231498252
+
+JakeBequette91-------
+-Entities
+--------
+The White House clearly dressed up an operative as the Easter Bunny to keep the President out of trouble. Thats where were at.
+Index Error on Media Url
+-Extended Entities
+------
+No extEntMedia for: JakeBequette91
+!Len(ConvoList) = 1
+==================================
+-----lijukic--------
+Check Quote
+	Returned Original Tweet: 1516073370894413830
+
+lijukic-------
+-Entities
+--------
+Cant believe NATO made a chart of official ethnic stereotypes https://t.co/xMxejqLO3K
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+!Len(ConvoList) = 1
+==================================
+-----eleevn--------
+Check Quote
+	Returned Original Tweet: 1515730817707773952
+
+eleevn-------
+-Entities
+--------
+the application of magic as a psychological control (PSYCON), step by step process adapted from Lt. Col. Michael Aq https://t.co/neecGppDVx
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1515730817707773952
+Book updated-Extended Entities
+------
+No extEntMedia for: eleevn
+!Len(ConvoList) = 1
+==================================
+-----stillgray--------
+Check Quote
+	Returned Original Tweet: 1515552948545155073
+
+stillgray-------
+-Entities
+--------
+Become ungovernable.   https://t.co/m7zbCfSD3U
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [15.433] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+!Len(ConvoList) = 1
+==================================
+-----Wallace45th--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1515105916127006722
+	Original Tweet ID: 1515104605595594756
+Couldnt check quoteIs not a Tuple- is type: <class 'NoneType'>
+==================================
+-----SolBrah--------
+Check Quote
+	Returned Original Tweet: 1515084432079659013
+
+SolBrah-------
+-Entities
+--------
+sunglasses? u mean soyglasses?
+
+*ohh mimimi the sun is too bright!! Owchiez!!  Ooo ow!! need my dark eye blankie*
+Index Error on Media Url
+-Extended Entities
+------
+No extEntMedia for: SolBrah
+!Len(ConvoList) = 1
+==================================
+-----BrianRoemmele--------
+Check Quote
+	Returned Original Tweet: 1515041987551924224
+
+BrianRoemmele-------
+-Entities
+--------
+A tree struck by lightning exposes the very complex vascular system. https://t.co/JMQ483em2q
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+!Len(ConvoList) = 1
+==================================
+-----Prathkum--------
+Check Quote
+	Returned Original Tweet: 1515041274784538624
+
+Prathkum-------
+-Entities
+--------
+Web Development is challenging.
+
+But it becomes a little easier if you follow the right resources.
+
+Mega thread of https://t.co/QPEwdEG3zc
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1515041274784538624
+Book updated-Extended Entities
+------
+No extEntMedia for: Prathkum
+!Len(ConvoList) = 1
+==================================
+-----Chromasophore--------
+Check Quote
+	Returned Original Tweet: 1515018195354230794
+
+Chromasophore-------
+-Entities
+--------
+As a computer science student I can confidently say that computers are summoning demons into reality
+Index Error on Media Url
+-Extended Entities
+------
+No extEntMedia for: Chromasophore
+!Len(ConvoList) = 1
+==================================
+-----Fibci2--------
+Check Quote
+	Returned Original Tweet: 1515003682051530760
+
+Fibci2-------
+-Entities
+--------
+MSNBCs Mika Brzezinski says Elon Musk Twitter takeover could set 'very dangerous precedent'
+
+Mika, It is our jo https://t.co/vyYSWMqWd7
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1515003682051530760
+Book updated-Extended Entities
+------
+No extEntMedia for: Fibci2
+!Len(ConvoList) = 1
+==================================
+-----tom_morganKCP--------
+Check Quote
+	Returned Original Tweet: 1514984231478378501
+
+tom_morganKCP-------
+-Entities
+--------
+Setting off on a long walk. Without thinking too deeply about it, whats the most beautiful song you know? Please p https://t.co/RyhOQIG86N
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1514984231478378501
+Book updated-Extended Entities
+------
+No extEntMedia for: tom_morganKCP
+!Len(ConvoList) = 1
+==================================
+-----gilbertftw--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1514675621393154060
+	Original Tweet ID: 1514674326984957953
+is a reply
+
+gilbertftw-------
+-Entities
+--------
+@basedmina https://t.co/0QwQCRankL
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+==================================
+-----basedmina--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1514674326984957953
+	Original Tweet ID: 1514671099262296070
+is a reply
+
+gilbertftw-------
+-Entities
+--------
+@basedmina https://t.co/0QwQCRankL
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+==================================
+-----gilbertftw--------
+Check Quote
+	Returned Original Tweet: 1514671099262296070
+
+gilbertftw-------
+-Entities
+--------
+@basedmina https://t.co/0QwQCRankL
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+!Len(ConvoList) = 3
+==================================
+-----gunsnrosesgirl3--------
+Check Quote
+	Returned Original Tweet: 1514655054816591879
+
+gunsnrosesgirl3-------
+-Entities
+--------
+The lava from Indonesia's Kawah Ijen volcano has an electric blue appearance 
+
+Large quantities of sulfuric gasese https://t.co/SH9Gg1SWmN
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1514655054816591879
+Book updated-Extended Entities
+------
+No extEntMedia for: gunsnrosesgirl3
+!Len(ConvoList) = 1
+==================================
+-----aimeeterese--------
+Check Quote
+	Returned Original Tweet: 1514597003682279424
+
+aimeeterese-------
+-Entities
+--------
+noooo you can't let a billionaire own the media! https://t.co/sAfhnVjU7V
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+!Len(ConvoList) = 1
+==================================
+-----US_Stormwatch--------
+Check Quote
+	Returned Original Tweet: 1514361216725966856
+
+US_Stormwatch-------
+-Entities
+--------
+The "unzipping" of the dryline yesterday across the Plains is one of the coolest meteorological processes I have ev https://t.co/BYu3l9oLj4
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1514361216725966856
+Book updated-Extended Entities
+------
+No extEntMedia for: US_Stormwatch
+!Len(ConvoList) = 1
+==================================
+-----1889dinofg--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513978813318717442
+	Original Tweet ID: 1513976004334784523
+is a reply
+
+1889dinofg-------
+-Entities
+--------
+@Baked_groyper @LetTheNukesFly @NameBunchONumbs @comfyfugitive @StonedPepeIRL @FrensFather I approve this https://t.co/9qFZPXTTDq
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+==================================
+-----Baked_groyper--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513976004334784523
+	Original Tweet ID: 1513960803980005380
+is a reply
+
+1889dinofg-------
+-Entities
+--------
+@Baked_groyper @LetTheNukesFly @NameBunchONumbs @comfyfugitive @StonedPepeIRL @FrensFather I approve this https://t.co/9qFZPXTTDq
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+==================================
+-----LetTheNukesFly--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513960803980005380
+	Original Tweet ID: 1513954587375378432
+is a reply
+
+1889dinofg-------
+-Entities
+--------
+@Baked_groyper @LetTheNukesFly @NameBunchONumbs @comfyfugitive @StonedPepeIRL @FrensFather I approve this https://t.co/9qFZPXTTDq
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+==================================
+-----NameBunchONumbs--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513954587375378432
+	Original Tweet ID: 1513952906998865931
+is a reply
+
+1889dinofg-------
+-Entities
+--------
+@Baked_groyper @LetTheNukesFly @NameBunchONumbs @comfyfugitive @StonedPepeIRL @FrensFather I approve this https://t.co/9qFZPXTTDq
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+==================================
+-----comfyfugitive--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513952906998865931
+	Original Tweet ID: 1513951242883637263
+is a reply
+
+1889dinofg-------
+-Entities
+--------
+@Baked_groyper @LetTheNukesFly @NameBunchONumbs @comfyfugitive @StonedPepeIRL @FrensFather I approve this https://t.co/9qFZPXTTDq
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+==================================
+-----StonedPepeIRL--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513951242883637263
+	Original Tweet ID: 1513948707724607501
+is a reply
+
+1889dinofg-------
+-Entities
+--------
+@Baked_groyper @LetTheNukesFly @NameBunchONumbs @comfyfugitive @StonedPepeIRL @FrensFather I approve this https://t.co/9qFZPXTTDq
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+==================================
+-----FrensFather--------
+Check Quote
+	Returned Original Tweet: 1513948707724607501
+
+1889dinofg-------
+-Entities
+--------
+@Baked_groyper @LetTheNukesFly @NameBunchONumbs @comfyfugitive @StonedPepeIRL @FrensFather I approve this https://t.co/9qFZPXTTDq
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+!Len(ConvoList) = 7
+==================================
+-----Lukewearechange--------
+Check Quote
+	Returned Original Tweet: 1513671098495287298
+
+Lukewearechange-------
+-Entities
+--------
+This is the diet that the globalist want you on and sadly many people are on it already! https://t.co/298DUYqjKg
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+!Len(ConvoList) = 1
+==================================
+-----tillwhensday--------
+Check Quote
+	Returned Original Tweet: 1513503505369157633
+
+tillwhensday-------
+-Entities
+--------
+uuuuuuuunlocking an c18th French safe. https://t.co/uZsCfXP2XP
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [56.4] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+!Len(ConvoList) = 1
+==================================
+-----SolBrah--------
+Check Quote
+	Returned Original Tweet: 1513336390842474496
+
+SolBrah-------
+-Entities
+--------
+ENERGY https://t.co/mO86aoO9te
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [105.033] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+!Len(ConvoList) = 1
+==================================
+-----ZeitgeistFilm--------
+Check Quote
+	Returned Original Tweet: 1513199356559646728
+
+ZeitgeistFilm-------
+-Entities
+--------
+Interesting. #Nature is epic.
+
+"The research...found that these spikes often clustered into trains of activity, res https://t.co/QFkLsyRIOO
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1513199356559646728
+Book updated-Extended Entities
+------
+No extEntMedia for: ZeitgeistFilm
+!Len(ConvoList) = 1
+==================================
+-----crackconnoisser--------
+Check Quote
+	Returned Original Tweet: 1512554191780298761
+
+crackconnoisser-------
+-Entities
+--------
+how white people leave work fridays
+https://t.co/Fk4CJXvpU5
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [36.713] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+!Len(ConvoList) = 1
+==================================
+-----PonticSteppeDad--------
+Check Quote
+	Returned Original Tweet: 1511518786590961666
+
+PonticSteppeDad-------
+-Entities
+--------
+Check if you're on Travis Brown's Hate Speech list. Funded by the German Government.
+
+A lot of our guys. https://t.co/WntG2FcNL5
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1511518786590961666
+Book updated-Extended Entities
+------
+No extEntMedia for: PonticSteppeDad
+!Len(ConvoList) = 1
+==================================
+-----BigGulpAmerikan--------
+Check Quote
+	Is Quoted Status
+	Original Tweet ID: 1510996530110550020
+	Quoted Tweet ID: 1510878347223576576
+is quoted
+
+BigGulpAmerikan-------
+-Entities
+--------
+this was a libertarian utopia. If medieval germans got their way then a five foot radius around each person would b https://t.co/cgXN1tN0xG
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1510996530110550020
+Book updated-Extended Entities
+------
+No extEntMedia for: BigGulpAmerikan
+==================================
+-----lijukic--------
+Check Quote
+	Returned Original Tweet: 1510878347223576576
+
+BigGulpAmerikan-------
+-Entities
+--------
+this was a libertarian utopia. If medieval germans got their way then a five foot radius around each person would b https://t.co/cgXN1tN0xG
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1510996530110550020
+Book updated-Extended Entities
+------
+No extEntMedia for: BigGulpAmerikan
+!Len(ConvoList) = 2
+==================================
+-----CameronWEF--------
+Check Quote
+	Returned Original Tweet: 1510762187316686853
+
+CameronWEF-------
+-Entities
+--------
+Hungry residents in Shanghai break out of their compound to go food shopping. I'm seeing more and more chaotic and https://t.co/JB3uvxlz3V
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1510762187316686853
+Book updated-Extended Entities
+------
+No extEntMedia for: CameronWEF
+!Len(ConvoList) = 1
+==================================
+-----Adventure_Nero--------
+Check Quote
+	Returned Original Tweet: 1510656776303169536
+
+Adventure_Nero-------
+-Entities
+--------
+A joke in 1978 is fiscal policy today https://t.co/WALIgGpHH1
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [86.057] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+!Len(ConvoList) = 1
+==================================
+-----randal_olson--------
+Check Quote
+	Returned Original Tweet: 1510305906667315203
+
+randal_olson-------
+-Entities
+--------
+The first day of @Reddit's /r/Place experiment.
+
+/r/Place is a 1000x1000 pixel square. Every Redditor can place a s https://t.co/I5gKygJPKi
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1510305906667315203
+Book updated-Extended Entities
+------
+No extEntMedia for: randal_olson
+!Len(ConvoList) = 1
+==================================
+-----GiancarloSopo--------
+Check Quote
+	Returned Original Tweet: 1509598797848006663
+
+GiancarloSopo-------
+-Entities
+--------
+Adam was robbed. This is at least an A- paper. https://t.co/PAMbSlfztU
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+!Len(ConvoList) = 1
+==================================
+-----archillect--------
+Check Quote
+	Returned Original Tweet: 1508467364379213835
+
+archillect-------
+-Entities
+--------
+https://t.co/9DhuxxuCfu
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+!Len(ConvoList) = 1
+==================================
+-----dean_a_1984--------
+Check Quote
+	Returned Original Tweet: 1508287469040857089
+
+dean_a_1984-------
+-Entities
+--------
+We can never forget what they did to us. https://t.co/oIIFTh6ClN
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [100.866] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+!Len(ConvoList) = 1
+==================================
+-----STOGGERS2--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1507750431241510916
+	Original Tweet ID: 1507747662422241291
+is a reply
+
+STOGGERS2-------
+-Entities
+--------
+@DejaRu22 https://t.co/dyQf2GOOq8
+Found 4 URLs
+Expanded_url: https://www.reddit.com/r/nosleep/comments/3iex1h/im_a_search_and_rescue_officer_for_the_us_forest/
+Book updated-Extended Entities
+------
+No extEntMedia for: STOGGERS2
+==================================
+-----DejaRu22--------
+Check Quote
+	Returned Original Tweet: 1507747662422241291
+
+STOGGERS2-------
+-Entities
+--------
+@DejaRu22 https://t.co/dyQf2GOOq8
+Found 4 URLs
+Expanded_url: https://www.reddit.com/r/nosleep/comments/3iex1h/im_a_search_and_rescue_officer_for_the_us_forest/
+Book updated-Extended Entities
+------
+No extEntMedia for: STOGGERS2
+!Len(ConvoList) = 2
+==================================
+-----Resist_05--------
+Check Quote
+	Returned Original Tweet: 1507506004678037508
+
+Resist_05-------
+-Entities
+--------
+1981 movie.. Predictive Programming https://t.co/PGmhtmExbz
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [140.0] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+!Len(ConvoList) = 1
+==================================
+-----NixonsAuSpectre--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1507380508908527643
+	Original Tweet ID: 1507318505854619655
+is a reply
+
+NixonsAuSpectre-------
+-Entities
+--------
+@BNicholsLiberty https://t.co/mYA0RvoQpl
+Found 4 URLs
+Expanded_url: http://wtfhappenedin1971.com
+Book updated-Extended Entities
+------
+No extEntMedia for: NixonsAuSpectre
+==================================
+-----BNicholsLiberty--------
+Check Quote
+	Returned Original Tweet: 1507318505854619655
+
+NixonsAuSpectre-------
+-Entities
+--------
+@BNicholsLiberty https://t.co/mYA0RvoQpl
+Found 4 URLs
+Expanded_url: http://wtfhappenedin1971.com
+Book updated-Extended Entities
+------
+No extEntMedia for: NixonsAuSpectre
+!Len(ConvoList) = 2
+==================================
+-----MythinformedMKE--------
+Check Quote
+	Returned Original Tweet: 1507022448742567940
+
+MythinformedMKE-------
+-Entities
+--------
+This is a meme from 2010. https://t.co/65Q1ykojhX
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+!Len(ConvoList) = 1
+==================================
+-----stillgray--------
+Check Quote
+	Returned Original Tweet: 1506920970430595072
+
+stillgray-------
+-Entities
+--------
+He is certainly an entertainer.  https://t.co/jqvw16tMNe
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [27.504] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+!Len(ConvoList) = 1
